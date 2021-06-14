@@ -1,0 +1,2 @@
+yes so it is now working absolutely fine and damn awesomeso I am going to tell you that while you will using the weather block then you don't need to write FD close function it is only necessary when you are using file pointer as a manual methodplease tell it workedis first line
+this is the second life
